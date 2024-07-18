@@ -2,7 +2,7 @@ Lesson 31- GENERICS, LISTS & ADDING GRADIENT COLORS
 
 generic types are "flexible types" that "work together" with other types
 
-*in this example List<Color> colors, Color is data type
+*for example List<Color> colors, Color is data type
 
 *here is an example 
           decoration: BoxDecoration(
@@ -11,3 +11,5 @@ generic types are "flexible types" that "work together" with other types
             Color.fromARGB(255, 169, 205, 117),
             Color.fromRGBO(184, 206, 152, 1),
           ])),
+
+          

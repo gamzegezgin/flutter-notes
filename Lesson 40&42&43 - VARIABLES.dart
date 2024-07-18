@@ -1,7 +1,7 @@
 
 LESSON - 40
 
-*Example-1 without using variables
+*Example-1 without using var
 
 import 'package:flutter/material.dart';
 class GradientContainer extends StatelessWidget {
